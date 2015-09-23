@@ -9,10 +9,10 @@ Souhaite devenir entrepreneur en développant une activité facilitatrice et acc
 
 ## Expériences
 * Orchestrer des systèmes de management qualité/sécurité.
-'* certications de nombreuses agences et filiales à la norme ISO 9001.
-'* intégrer la démarache qualité dans la stratégie de l'entreprise.
+ * certications de nombreuses agences et filiales à la norme ISO 9001.
+ * intégrer la démarache qualité dans la stratégie de l'entreprise.
 * Piloter des projets immobiliers, informatiques et SI complexes.
-'*75 opérations immobilières pilotées avec un budget de 17 millions d'€. 
+ * 75 opérations immobilières pilotées avec un budget de 17 millions d'€. 
 * Manager des équipes pluridisciplinaires.
 
 ## Formations
